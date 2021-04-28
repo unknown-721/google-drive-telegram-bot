@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1537629220:AAHPrY_973oVCDkoOUf5qBUrkhAIW3dreUs"
+    APP_ID = "1559100"
+    API_HASH = "33e8ad2e5e5a16be9037e4cbb6e4f402"
+    DATABASE_URL = "postgres://ewmyuevzdgnwql:9c6d5b28b4a8f7d7cc42c5760bac431174f7e69c8fbf83c54648822c0249b140@ec2-54-90-211-192.compute-1.amazonaws.com"
+    SUDO_USERS = "791329282" # .
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
@@ -93,4 +93,4 @@ class Messages:
     
     EMPTY_TRASH = "🗑️🚮**Trash Emptied Successfully !**"
     
-    PROVIDE_YTDL_LINK = "❗**Provide a valid YouTube-DL supported link.**"
+    PROVIDE_YTDL_LINK = "❗**Provide a valid YouTube-DL supported link.**"you
